@@ -2,7 +2,6 @@
 **Unleash the power of Python with just five lines of code to effortlessly remove backgrounds from your images! 🖼️✂️**
 **Say goodbye to complex procedures—this snippet utilizing '𝗿𝗲𝗺𝗯𝗴' library simplifies background removal.**
 **Try it out and level up your image editing game! 🚀**
-Absolutely, here are the steps you can include in your GitHub README file to explain the provided code:
 
 ---
 
