@@ -40,9 +40,8 @@ Utilize the 'remove' function from the 'rembg' library to remove the background 
 Save the processed image with the background removed using the 'save' function from the 'PIL' library. Ensure to save it in '.png' format.
 
 ---
-''' 
-Note: 
-When using the '𝘳𝘦𝘮𝘣𝘨' library for background removal, ensure that the output file extension 
+## **Note:**
+**When using the '𝘳𝘦𝘮𝘣𝘨' library for background removal, ensure that the output file extension 
 specified in the '𝘰𝘶𝘵𝘱𝘶𝘵.𝘴𝘢𝘷𝘦()' method is set to '.𝘱𝘯𝘨' format. Attempting to save the output 
-image with other formats like JPEG ('.𝘫𝘱𝘨') might result in an error. 
-'''
+image with other formats like JPEG ('.𝘫𝘱𝘨') might result in an error.**
+---
